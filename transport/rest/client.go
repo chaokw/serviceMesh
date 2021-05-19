@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/chaokw/seviceMesh/transport/rest/client/selector"
+	"github.com/chaokw/serviceMesh/transport/rest/client/selector"
 	"github.com/go-resty/resty/v2"
 )
 

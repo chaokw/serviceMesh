@@ -1,7 +1,7 @@
 package static
 
 import (
-	"github.com/chaokw/servieMesh/registry"
+	"github.com/chaokw/serviceMesh/registry"
 	"github.com/stretchr/testify/assert"
 
 	"testing"
